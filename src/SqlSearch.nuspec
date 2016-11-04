@@ -9,6 +9,9 @@
         <licenseUrl>https://documentation.red-gate.com/display/XX/Licensing</licenseUrl>
         <projectUrl>http://www.red-gate.com/products/sql-development/sql-search/</projectUrl>
         <iconUrl>http://www.red-gate.com/assets/INTERIM/assets/products/sql-search/images/sql-search.svg</iconUrl>
+        <docsUrl>https://github.com/sumo300/chocolatey-sqlsearch</docsUrl>
+        <bugTrackerUrl>https://github.com/sumo300/chocolatey-sqlsearch/issues</bugTrackerUrl>
+        <projectSourceUrl>https://github.com/sumo300/chocolatey-sqlsearch</projectSourceUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>SQL Search is a free add-in for SQL Server Management Studio that lets you quickly search for SQL across your databases.</description>
         <summary>Find SQL fast in SQL Server Management Studio</summary>
