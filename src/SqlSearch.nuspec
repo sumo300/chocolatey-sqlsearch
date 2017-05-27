@@ -15,7 +15,7 @@
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>SQL Search is a free add-in for SQL Server Management Studio that lets you quickly search for SQL across your databases.</description>
         <summary>Find SQL fast in SQL Server Management Studio</summary>
-        <releaseNotes>https://documentation.red-gate.com/display/SS2/SQL+Search+2.3+release+notes</releaseNotes>
+        <releaseNotes>https://documentation.red-gate.com/display/SS2/SQL+Search+2.4+release+notes</releaseNotes>
         <language>en-US</language>
         <tags>SQL search SSMS admin</tags>
     </metadata>
