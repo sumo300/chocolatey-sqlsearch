@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>SqlSearch</id>
-        <version>3.1.0.0</version>
+        <version>3.1.7.2082</version>
         <title>SQL Search</title>
         <authors>Red Gate Software Ltd</authors>
         <owners>sumo300</owners>
@@ -15,7 +15,7 @@
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>SQL Search is a free add-in for SQL Server Management Studio that lets you quickly search for SQL across your databases.</description>
         <summary>Find SQL fast in SQL Server Management Studio</summary>
-        <releaseNotes>https://documentation.red-gate.com/ss3/release-notes-and-other-versions/sql-search-3-0-release-notes</releaseNotes>
+        <releaseNotes>https://documentation.red-gate.com/ss3/release-notes-and-other-versions/sql-search-3-1-release-notes</releaseNotes>
         <language>en-US</language>
         <tags>SQL search SSMS admin</tags>
     </metadata>
